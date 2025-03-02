@@ -1,0 +1,44 @@
+
+.content{
+    margin: 15% auto 0;
+}
+.content h1{
+    font-size: 65px;
+    font-weight: 400;
+}
+.content h1 span {
+    font-size:100px;
+}
+.footer{
+    size: 29vh;
+    position: end;
+    position: bottom;
+}
+.header{
+    position:center;
+    size: 20%;
+    
+}
+.box{
+    position:center;
+    size:0 to 100%;
+    top::after
+    background:tranparent;
+}
+.align{
+    width: 460px;
+    height: 400px;
+    position:bottom;
+    top: 0%;
+    left: 100%;
+    transform: translate(-180%,-160%);
+
+    
+}
+.align img{
+    position:bottom;
+    height:auto;
+    left: 100px;
+    width: 400px;
+    
+}
